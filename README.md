@@ -1,2 +1,2 @@
-# Codeaquadron
+# CodeSquadron
 E Commerce website 
